@@ -3,5 +3,5 @@
     ▼
   </p>
   <p align="center">
-Visit our official [GitHub here](https://github.com/luxdefi).
+Visit our official <a href="https://github.com/luxfi">GitHub here</a>.
 </h3>
